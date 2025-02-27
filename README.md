@@ -1,11 +1,11 @@
 # Anti-Counterfeiting Through Blockchain QR Codes
 
-#📌 Project Overview
+## Project Overview
 
 
 This project leverages Blockchain Technology to prevent counterfeiting using QR codes. It ensures product authentication and traceability, reducing fraudulent activities in supply chains.
 
-#🚀 Features
+## Features
 
 
 QR Code-Based Verification: Unique QR codes generated for each product.
@@ -18,7 +18,7 @@ Tamper-Proof Data: Prevents alterations and unauthorized modifications.
 
 User-Friendly Interface: Easy product scanning and verification.
 
-#🛠 Tech Stack
+## Tech Stack
 
 Blockchain: Ethereum / Hyperledger (as applicable)
 
