@@ -2,9 +2,11 @@
 
 📌 Project Overview
 
+
 This project leverages Blockchain Technology to prevent counterfeiting using QR codes. It ensures product authentication and traceability, reducing fraudulent activities in supply chains.
 
 🚀 Features
+
 
 QR Code-Based Verification: Unique QR codes generated for each product.
 
