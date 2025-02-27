@@ -32,5 +32,3 @@ Smart Contracts: Solidity (if applicable)
 
 ## Links
 - **GitHub**: https://github.com/Vigneshx07/anti-counterfieting-through-blockchain-qr-codes.git
-- **App Link**: 
-- **LinkedIn**
